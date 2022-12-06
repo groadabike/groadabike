@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-
+- 🌱 I’m constantly learning more about Machine Learning and DNN arquitectures.
+- 
 - ⚡ Fun facts: 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=groadabike&count_private=true&show_icons=true&theme=blueberry)
