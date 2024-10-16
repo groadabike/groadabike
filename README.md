@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=groadabike&count_private=true&show_icons=true&theme=blueberry)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=groadabike&count_private=true&show_icons=true&theme=blueberry)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=groadabike&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=groadabike&layout=compact&theme=blueberry&hide=javascript,html,css)](https://github.com/groadabike/github-readme-stats)
 
 
