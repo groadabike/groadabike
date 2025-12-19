@@ -5,7 +5,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=groadabike&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=groadabike&layout=compact&theme=blueberry&hide=javascript,html,css)](https://github.com/groadabike/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=groadabike&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=groadabike)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **groadabike/groadabike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
