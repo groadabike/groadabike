@@ -2,10 +2,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=groadabike&count_private=true&show_icons=true&theme=blueberry)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=groadabike&theme=dark)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=groadabike&layout=compact&theme=blueberry&hide=javascript,html,css)](https://github.com/groadabike/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=groadabike&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **groadabike/groadabike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
