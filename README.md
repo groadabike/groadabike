@@ -4,6 +4,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats-wine-mu-69.vercel.app/api?username=groadabike&count_private=true&show_icons=true&theme=blueberry)  
 [![Top Langs](https://github-readme-stats-wine-mu-69.vercel.app/api/top-langs/?username=groadabike&layout=compact&theme=blueberry&hide=javascript,html,css)](https://github.com/groadabike/github-readme-stats)
 
+![trophy](https://github-profile-trophy-theta-liard.vercel.app/?username=groadabike&theme=onedark)
+
 <!--
 **groadabike/groadabike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
